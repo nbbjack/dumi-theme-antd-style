@@ -1,6 +1,6 @@
 {
-  "name": "dumi-theme-antd-style",
-  "version": "0.31.0",
+  "name": "dumi-theme-antd-style-nbb",
+  "version": "0.0.1",
   "description": "dumi-theme-antd-style 是为 dumi2 打造的一款文档站主题包，提供了更加美观、易用的研发与阅读体验",
   "keywords": [
     "npm",
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arvinxx/dumi-theme-antd-style.git"
+    "url": "https://github.com/nbbjack/dumi-theme-antd-style.git"
   },
   "license": "MIT",
-  "author": "arvinxx(arvinx@foxmail.com)",
+  "author": "nbbjack(nbbjack@outlook.com)",
   "sideEffects": false,
   "main": "dist/index.js",
   "module": "dist/index.js",

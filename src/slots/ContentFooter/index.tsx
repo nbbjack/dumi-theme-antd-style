@@ -12,6 +12,12 @@ const ContentFooter = () => {
 
   const { mobile } = useResponsive();
 
+  const fm = useSiteStore((s) => s.routeMeta.frontmatter, isEqual);
+  const hideContentFooter = fm.contentFooter === false;
+  if (hideContentFooter) {
+    return <></>;
+  }
+
   return (
     <Flexbox
       horizontal={!mobile}
