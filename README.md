@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<h1>dumi-theme-antd-style</h1>
+<h1>dumi-theme-antd-style-nbb</h1>
 
-一款为 dumi2 打造的文档站主题包，提供了更加美观、易用的研发与阅读体验
+一款为 dumi2 打造的文档站主题包，提供了更加美观、易用的研发与阅读体验。衍生于【dumi-theme-antd-style】。
 
 [Changelog](./CHANGELOG.md) · [Report Bug][issues-url] · [Request Feature][issues-url]
 
@@ -74,7 +74,7 @@ dumi-theme-antd-style 是为 dumi2 打造的一款文档站主题包，提供了
 推荐使用 `pnpm` 安装
 
 ```bash
-pnpm i dumi-theme-antd-style -D
+pnpm i dumi-theme-antd-style-nbb -D
 ```
 
 ### 使用

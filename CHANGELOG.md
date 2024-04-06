@@ -1,5 +1,13 @@
 # Changelog
 
+## [衍生版本 Version&nbsp;0.1.0](https://github.com/nbbjack/dumi-theme-antd-style/commit/8534c0fa9077172a0b65ef0adc26cf7c8ea417f3)
+
+<sup>Released on **2024-04-07**</sup>
+
+#### ✨ 新特性 支持屏蔽“上一篇、下一篇”按钮
+
+- 在 md 文件中新增 contentFooter=false 即可实现
+
 ## [Version&nbsp;0.31.0](https://github.com/arvinxx/dumi-theme-antd-style/compare/v0.30.1...v0.31.0)
 
 <sup>Released on **2024-03-22**</sup>
