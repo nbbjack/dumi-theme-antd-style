@@ -6,7 +6,6 @@ nav:
 group:
   title: Introduction
   order: -1
-contentFooter: false
 ---
 
 # What is this?

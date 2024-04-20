@@ -6,7 +6,6 @@ nav:
 group:
   title: 介绍
   order: -1
-contentFooter: true
 ---
 
 # 这是什么?
